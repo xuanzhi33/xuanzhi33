@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xuanzhi33
-- 🏫 University of Nottingham Ningbo China
+- 🏫 University of Nottingham Ningbo China (Computer Science)
 - 👀 I’m interested in web developing (html, js, php, python)
 - 📫 How to reach me:
   - My Website: [xuanzhi33.cn](https://www.xuanzhi33.cn/)
